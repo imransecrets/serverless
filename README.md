@@ -110,5 +110,4 @@ You deploy these containers to Google Cloud Run.
 - **Traditional CaaS**: Better suited for applications that need more control over the runtime environment, complex deployments, or stateful applications.
 
 ## Conclusion
-Serverless computing simplifies the development and deployment process by abstracting the infrastructure management, allowing developers to focus on writing code. Serverless CaaS combines th
-
+Serverless computing simplifies the development and deployment process by abstracting the infrastructure management, allowing developers to focus on writing code. Serverless CaaS combines the benefits of serverless with the control and flexibility of containerization. While both serverless and CaaS offer significant benefits, the choice depends on the specific needs of the application, such as control over the environment, scalability requirements, and the complexity of the deployment.
